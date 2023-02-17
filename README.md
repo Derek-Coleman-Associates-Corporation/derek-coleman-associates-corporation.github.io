@@ -1,15 +1,9 @@
-# Derek Coleman Associates Corporation Support Portal
+# Derek Coleman Associates Corporation
 
-Welcome to the Derek Coleman Associates Corporation Support Portal! This repository contains the HTML, CSS, and JavaScript code for our support portal, which provides resources to help you get the most out of our products and services. If you have any questions or issues, our support team is here to help.
+At Derek Coleman Associates Corporation, we specialize in helping businesses of all sizes and industries to unlock the full potential of their data and technology through cloud solutions. As a Microsoft Cloud Partner, we have the expertise and resources to help businesses of all sizes get the most out of platforms like Azure, Dynamics 365, and Microsoft 365.
 
-## Getting Started
+Our team of experienced professionals works closely with our clients to understand their unique business needs and goals, and we provide customized solutions that help them to achieve their objectives. We offer a wide range of services, including cloud strategy development, cloud migration, application development, data management, and more.
 
-To access our support portal, simply go to https://derek-coleman-associates-corporation.github.io/support-portal/ in your web browser. The support portal includes a knowledge base with articles and tutorials to help you with common issues and tasks, as well as contact information for our support team.
+We take a customer-focused approach to everything we do, and we are committed to delivering exceptional service and support to all of our clients. Our team is dedicated to staying up-to-date with the latest industry trends and technologies, so we can continue to provide our clients with cutting-edge solutions that meet their evolving needs.
 
-## Contributing
-
-We welcome contributions from the community to help improve our support portal. If you notice any errors or have suggestions for how we can make the portal more useful, please feel free to submit a pull request with your changes.
-
-## License
-
-This repository is licensed under the MIT License. See the `LICENSE` file for more information.
+If you're looking to take your business to the next level with the power of the cloud, look no further than Derek Coleman Associates Corporation. Contact us today to learn more about how we can help you achieve your goals with Microsoft cloud solutions.
